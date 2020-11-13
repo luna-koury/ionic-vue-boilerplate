@@ -1,0 +1,7 @@
+{
+  "name": "ideal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
